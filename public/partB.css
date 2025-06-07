@@ -1,0 +1,18 @@
+.partB-container{
+    display: flex;
+    flex-flow:column;
+    width: 100%;
+    box-sizing: border-box;
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+    padding: 2%;
+    border-radius: 10%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #f4a261;
+    background: #f4a261;
+    margin-right: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
